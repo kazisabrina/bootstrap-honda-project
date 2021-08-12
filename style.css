@@ -1,0 +1,44 @@
+/***************** common utilities ***********************/
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*********** header section styles *****************/
+
+.banner{
+    background-color: #264653;
+}
+
+.button-color{
+    background-color: #E76F51;
+}
+
+.navbar-nav li a {
+    color: white;
+}
+
+.container p{
+    font-size: 14px;
+}
+
+.p-color{
+    color: #E76F51;
+}
+
+/************************ featured section styles *******************/
+
+.container .gray-pic{
+    filter: grayscale(100%);
+}
+
+/************************ Client section styles *******************/
+
+.container .client-border{
+    border-color: #DEDEDE;
+}
+
+/************************ Review section styles *******************/
+.card-body .fas{
+    color: #E76F51;
+}
